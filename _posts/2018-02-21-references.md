@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: Papers and References for Aggregate Programming and Protelis
+permalink: references
 ---
-If you use Protelis, please reference these foundational papers, and read them first.
+#### If you use Protelis, please reference these foundational papers, and read them first.
 
 <ul>
         <li>
@@ -25,10 +26,10 @@ If you use Protelis, please reference these foundational papers, and read them f
         </li>
 </ul>
 
-Top 8 additional references for further reading
+#### Top 8 additional references for further reading
 
 <ul>
-        <li><a href="https://pdfs.semanticscholar.org/9593/201247700ddb402ce25072e8736c46750631.pdf">A Type-Sound Calculus of Computational Fields</a>, 
+        <li><a href="https://pdfs.semanticscholar.org/9593/201247700ddb402ce25072e8736c46750631.pdf">A Type-Sound Calculus of Computational Fields</a>,
 Ferruccio Damiani, Mirko Viroli, Jacob Beal, Science of Computer Programming, Volume 117, pp 17–44, February 2016.
         </li>
         <li><a href="https://pdfs.semanticscholar.org/ec05/b8d4d3b29c55e492eee22f8bf96f692d2b4b.pdf">Efficient Engineering of Complex Self-Organizing Systems by Self-Stabilising Fields</a>, Mirko Viroli, Jacob Beal, Ferruccio Damiani, and Danilo Pianini, IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO), September 2015.
@@ -50,7 +51,7 @@ Ferruccio Damiani, Mirko Viroli, Jacob Beal, Science of Computer Programming, Vo
         </li>
 </ul>
 
-Additional references
+#### Additional references
 
 <strong>Journal Articles</strong>
 
@@ -74,12 +75,12 @@ Additional references
         <li><strong>On the Evaluation of Space-Time Functions</strong>, Jacob Beal, Kyle Usbeck, and Brett Benyo, The Computer Journal, 56 (12), pp. 1500-1517, December 2013.
         </li>
 </ul>
-    
+
 <strong>Book Chapters</strong>
 
 <ul>
         <li>
-          <a href="http://web.mit.edu/jakebeal/www/Publications/QUANTICOL16-AggregateProgramming.pdf">Aggregate 
+          <a href="http://web.mit.edu/jakebeal/www/Publications/QUANTICOL16-AggregateProgramming.pdf">Aggregate
           Programming: From Foundations to Applications</a>,
           Jacob Beal, Mirko Viroli, chapter in “Formal Methods for the Quantitative Evaluation of Collective Adaptive Systems.” ed. Marco Bernardo, Rocco De Nicola, and Jane Hillston, Springer International Publishing, pp 233-260, June 2016.
           <br>
@@ -111,7 +112,7 @@ Additional references
 <strong>Peer-Reviewed Conference Abstracts</strong>
 
 <ul>
-        <li><strong>Engineering multi-agent systems with aggregate computing</strong>, Danilo Pianini, Mirko Viroli, and Jacob Beal, Principles and Practice of Multi-Agent Systems (PRIMA 2015), October 2015. 
+        <li><strong>Engineering multi-agent systems with aggregate computing</strong>, Danilo Pianini, Mirko Viroli, and Jacob Beal, Principles and Practice of Multi-Agent Systems (PRIMA 2015), October 2015.
         </li>
 </ul>
 
